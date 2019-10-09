@@ -1,4 +1,4 @@
-![avatar](https://user-gold-cdn.xitu.io/2019/9/15/16d321c07cd31987?w=1080&h=433&f=jpeg&s=36498)
+![avatar](../images/banner-1.jpg)
 ## Quasar简述
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为一个兼容多端到极致的Ui框架，Quasar确实做到了，除了微信小程序，你能想到的所有前端可以做的他都已经做到了，并且都有相应的构建策略和实现方式，最最主要的是这些不同的项目可以做到复用一套代码，在这个科技高速发展的时代，无疑又为我们的前端项目带来了方便和效率。下面我们就几个方面对Quasar进行评测。
 <br><br>
