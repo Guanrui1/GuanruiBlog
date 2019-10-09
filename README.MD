@@ -69,26 +69,6 @@
 - [Event Loop](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AF%87.md#event-loop)
 - [setTimeout 和 setInterval 的小秘密](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AF%87.md#settimeout%E4%B8%8Esetinterval) `· new`
 
-### 🐂 性能及协作
-
-- [懒加载和预加载](https://github.com/PDKSophia/blog.io/blob/master/%E6%80%A7%E8%83%BD%E5%8F%8A%E5%8D%8F%E4%BD%9C%E7%AF%87-%E6%87%92%E5%8A%A0%E8%BD%BD%E5%92%8C%E9%A2%84%E5%8A%A0%E8%BD%BD.md)
-- [Git 的团队协作](https://github.com/PDKSophia/blog.io/blob/master/%E6%80%A7%E8%83%BD%E5%8F%8A%E5%8D%8F%E4%BD%9C%E7%AF%87-Git%E7%9A%84%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C.md)
-- [前后端分离](https://segmentfault.com/a/1190000009329474?_ea=2038402)
-- [git pull 和 git fetch 区别]()`· new`
-- [git rebase 和 git merge 区别]()`· new`
-
-### 🐯 计算机网络
-
-- [💗 计算机网络整本书复习精华](https://github.com/PDKSophia/read-booklist/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/NetWork.md) `· new`
-- [🔥 图解 HTTP](https://github.com/PDKSophia/read-booklist/tree/master/%E5%9B%BE%E8%A7%A3HTTP) `· new`
-- [从输入 URL 到页面加载完成的过程](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AF%87.md#%E4%BB%8E%E8%BE%93%E5%85%A5url%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%88%90%E7%9A%84%E8%BF%87%E7%A8%8B)
-- [针对 Web 的攻击技术 XSS 与 CSRF](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AF%87.md#%E9%92%88%E5%AF%B9Web%E7%9A%84%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AFXSS%E4%B8%8ECSRF) `· fix`
-- [HTTP 和 HTTPS 的区别](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AF%87.md#HTTP%E5%92%8CHTTPS%E7%9A%84%E5%8C%BA%E5%88%AB) `· fix`
-- [HTTP1.0 和 HTTP1.1 以及 HTTP2.0 的区别](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AF%87.md#http10http11%E5%92%8Chttp20%E7%9A%84%E5%8C%BA%E5%88%AB)
-- [TCP 三次握手和四次挥手](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AF%87.md#TCP%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B)
-- [TCP 和 UDP 的区别](https://blog.51cto.com/feinibuke/340272?source=drt)
-- [Session 和 Cookie 的区别](https://juejin.im/post/5b7c1f4d6fb9a019f221ca14)
-
 ### 🦁️ Vue
 
 - [Vue 生命周期的理解](https://github.com/PDKSophia/blog.io/blob/master/Vue%E7%AC%94%E8%AE%B0/Vue%E7%AF%87-Vue%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
