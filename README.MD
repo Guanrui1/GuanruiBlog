@@ -1,7 +1,7 @@
 |       Ⅰ        |      Ⅱ       |             Ⅲ              |      Ⅳ       |        Ⅴ         |         VI         |            VII             |         VIII          |       IX       |
 | :------------: | :----------: | :------------------------: | :----------: | :--------------: | :----------------: | :------------------------: | :-------------------: | :------------: |
 | [HTML](#-html) | [CSS](#-css) | [JavaScript](#-javascript) | [Vue](#-vue) | [React](#-react) | [浏览器](#-浏览器) | [数据结构](#-数据结构) | [算法](#-算法) | [工作笔记](#-工作笔记) |
-### 🐷 HTML
+### 🙆 HTML
 
 - [DOCTYPE 作用 ？ 标准模式（严格模式）和 兼容模式（混杂模式）有什么区别？](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-HTML%E7%AF%87.md#doctype%E4%BD%9C%E7%94%A8--%E6%A0%87%E5%87%86%E6%A8%A1%E5%BC%8F%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F%E5%92%8C-%E5%85%BC%E5%AE%B9%E6%A8%A1%E5%BC%8F%E6%B7%B7%E6%9D%82%E6%A8%A1%E5%BC%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 - [行内元素有哪些？块级元素有哪些？](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-HTML%E7%AF%87.md#%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0%E6%9C%89%E5%93%AA%E4%BA%9B)
@@ -11,7 +11,7 @@
 - [HTML 语义化的理解](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-HTML%E7%AF%87.md#html%E8%AF%AD%E4%B9%89%E5%8C%96%E7%9A%84%E7%90%86%E8%A7%A3)
 - [sessionStorage 、localStorage 、 cookie、 indexDB](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-HTML%E7%AF%87.md#sessionstorage-localstorage--cookie-indexdb)
 
-### 🐒 CSS
+### 🙋 CSS
 
 - [盒模型](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-CSS%E7%AF%87.md#%E7%9B%92%E6%A8%A1%E5%9E%8B)
 - [如何画一条 0.5px 的线](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-CSS%E7%AF%87.md#%E5%A6%82%E4%BD%95%E7%94%BB%E4%B8%80%E6%9D%A105px%E7%9A%84%E7%BA%BF-)
@@ -28,7 +28,7 @@
 - [position 属性的了解](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-CSS%E7%AF%87.md#position%E5%B1%9E%E6%80%A7%E7%9A%84%E4%BA%86%E8%A7%A3)
 - [如果需要手动写动画，你认为最小时间间隔是多久，为什么](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-CSS%E7%AF%87.md#%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E6%89%8B%E5%8A%A8%E5%86%99%E5%8A%A8%E7%94%BB%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4%E9%97%B4%E9%9A%94%E6%98%AF%E5%A4%9A%E4%B9%85%E4%B8%BA%E4%BB%80%E4%B9%88)
 
-### 🐼 JavaScript
+### 💁 JavaScript
 
 - [📕JavaScript 高级程序设计第三版红皮书总结](https://github.com/PDKSophia/read-booklist/tree/master/JavaScript%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E8%AE%BE%E8%AE%A1)
 
@@ -61,7 +61,7 @@
 - [let 和 const 及 var 的理解](https://github.com/chenjigeng/blog/blob/master/%E6%88%91%E5%AF%B9let%E5%92%8Cconst%E7%90%86%E8%A7%A3.md)
 - [arguments.callee](https://zhidao.baidu.com/question/263697314329750005.html)
 
-### 🐑 浏览器
+### 🙎 浏览器
 
 - [事件机制及事件委托](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AF%87.md#%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6) `· fix`
 - [来聊聊五毛钱话题-跨域问题](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AF%87.md#%E4%BB%80%E4%B9%88%E6%98%AF%E8%B7%A8%E5%9F%9F)
@@ -69,7 +69,7 @@
 - [Event Loop](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AF%87.md#event-loop)
 - [setTimeout 和 setInterval 的小秘密](https://github.com/PDKSophia/blog.io/blob/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AF%87.md#settimeout%E4%B8%8Esetinterval) `· new`
 
-### 🦁️ Vue
+### 💆 Vue
 
 - [Vue 生命周期的理解](https://github.com/PDKSophia/blog.io/blob/master/Vue%E7%AC%94%E8%AE%B0/Vue%E7%AF%87-Vue%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 - [Vue 的双向数据绑定原理是什么](https://github.com/PDKSophia/blog.io/blob/master/Vue%E7%AC%94%E8%AE%B0/Vue%E7%AF%87-%E6%95%B0%E6%8D%AE%E5%8F%8C%E5%90%91%E7%BB%91%E5%AE%9A%E5%8E%9F%E7%90%86.md) `· fix`
@@ -77,7 +77,7 @@
 - [Vue 之 nextTick 与 Watcher 以及 Dep 的蓝色生死恋](https://github.com/PDKSophia/blog.io/blob/master/Vue%E7%AC%94%E8%AE%B0/Vue%E7%AF%87-nextTick%E4%B8%8Ewatcher%E4%BB%A5%E5%8F%8ADep%E7%9A%84%E8%93%9D%E8%89%B2%E7%94%9F%E6%AD%BB%E6%81%8B.md) `· new`
 - [Vue 篇-看个五毛钱的 diff 算法](<https://github.com/answershuto/learnVue/blob/master/docs/VirtualDOM%E4%B8%8Ediff(Vue%E5%AE%9E%E7%8E%B0).MarkDown>) `· new`
 
-### 🐱 React
+### 💇 React
 
 - [从源码看 React 的生命周期](https://github.com/PDKSophia/blog.io/blob/master/React%E7%AC%94%E8%AE%B0/React%E7%AF%87-%E4%BB%8E%E6%BA%90%E7%A0%81%E7%9C%8BReact%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 - [今天的考核题目: 你知道 Vue 和 React 的区别吗?](https://github.com/PDKSophia/blog.io/blob/master/React%E7%AC%94%E8%AE%B0/React%E7%AF%87-React%E5%92%8CVue%E7%9A%84%E5%8C%BA%E5%88%AB.md)
@@ -85,7 +85,7 @@
 - [Redux 的内幕（一）](https://github.com/PDKSophia/blog.io/blob/master/React%E7%AC%94%E8%AE%B0/React%E7%AF%87-Redux%E7%9A%84%E5%86%85%E5%B9%95%EF%BC%88%E4%B8%80%EF%BC%89.md) `· new`
 - [Redux 的内幕（二）](https://github.com/PDKSophia/blog.io/blob/master/React%E7%AC%94%E8%AE%B0/React%E7%AF%87-Redux%E7%9A%84%E5%86%85%E5%B9%95%EF%BC%88%E4%BA%8C%EF%BC%89.md) `· new`
 
-### 🐶 数据结构
+### 💪 数据结构
 
 - [栈](https://github.com/PDKSophia/blog.io/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%A0%88.md)
 - [队列](https://github.com/PDKSophia/blog.io/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%98%9F%E5%88%97.md)
@@ -94,7 +94,7 @@
 - [字典](https://github.com/PDKSophia/blog.io/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%AD%97%E5%85%B8.md)
 - [图](https://github.com/PDKSophia/blog.io/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%9B%BE.md)
 
-### 🦉 算法
+### 👴 算法
 
 - [leetcode top 100 easy](https://github.com/PDKSophia/leetcode-js-study)
 
@@ -104,7 +104,7 @@
 
 - [排序算法](https://github.com/PDKSophia/blog.io/tree/master/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95) `· new`
 
-### 🌲 工作笔记
+### 📓 工作笔记
 
 - [Service Worker 的了解](https://github.com/PDKSophia/blog.io/blob/master/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/%E5%B7%A5%E4%BD%9C%E7%AF%87-ServiceWorker%E7%9A%84%E4%BA%86%E8%A7%A3.md)
 
