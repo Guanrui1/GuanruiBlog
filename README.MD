@@ -11,6 +11,7 @@
 
 ### 💁 JavaScript
 
+- [Node——从exports和module.exports说起](https://github.com/Guanrui1/GuanruiBlog/blob/master/JavaScript/Node%E2%80%94%E2%80%94%E4%BB%8Eexports%E5%92%8Cmodule.exports%E8%AF%B4%E8%B5%B7.md) 
 
 
 ### 🙎 浏览器
