@@ -87,7 +87,7 @@ quasar create <folder_name>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当然，除了src文件夹，外部的babel.config.js和quasar.conf.js（注意是conf不是config）很多时候也很重要，毕竟打包的配置就是要靠这两个文件。<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进入到src文件夹内部，正式上面显示的结构，和vue-cli生成的项目基本没什么区别。这个要重点说下，其中的boot是axios放的地方，也就是网络请求部分，css文件默认用的stylus，但是我们也能换成我们熟悉的sass，官网给出的说法是
-![QQ截图20190915100209.png](https://user-gold-cdn.xitu.io/2019/9/15/16d32a8dfc092235?w=785&h=419&f=png&s=45270)
+<img src="../images/detail-1.jpg">
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是，平凡当中却孕育者伟大，正如Quasar官网所说，当使用Quasar时，你不需要像Hammerjs，Momentjs或Bootstrap这样的额外重型库。它拥有这些功能，而且体积很小！对于Bootstrap,想必大家都已经很熟悉了，但是Hammer.js和Moment.js，这两个一听就是js库，
 #### Hammer.js
