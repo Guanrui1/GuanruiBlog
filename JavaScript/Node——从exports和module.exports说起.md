@@ -4,7 +4,7 @@
 
 module.exports和exports的关系我们可以用这张图来解释
 
-![avatar](../images/exports.png)
+![exports.png](https://i.loli.net/2019/10/17/A7jO9gdwRVzJoHx.png)
 
 可以打个比方，module.exports和exports就好比是火影忍者里头的柱间和斑，module.exports是柱间，exports是斑，刚开始的时候，两个人目标一直，都渴望建立一个和平的国家，但是此时这个国家还不存在，也就是他们心中指向的都是{}(一个空对象)。
 随着时间的推移，这个国家渐渐的出现了，随着忍者数量的增多，需要指派的任务也就渐渐增多，这时就需要柱间(module.exports)和斑(exports)来指派任务，由于两人都是创始人，自然没有什么区分，忍者们既听命于柱间(module.exports)同时也听命于斑(exports)。
