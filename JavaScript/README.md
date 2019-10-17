@@ -1,2 +1,3 @@
 - [JavaScript](./README.md) 
     - [Node——从exports和module.exports说起](./Node——从exports和module.exports说起.md) 
+    - [Javascript不良编码习惯.md](./Javascript不良编码习惯.md) 
