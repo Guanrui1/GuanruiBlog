@@ -13,6 +13,7 @@
 
 - [Node——从exports和module.exports说起](https://github.com/Guanrui1/GuanruiBlog/blob/master/JavaScript/Node%E2%80%94%E2%80%94%E4%BB%8Eexports%E5%92%8Cmodule.exports%E8%AF%B4%E8%B5%B7.md) 
 - [Javascript不良编码习惯.md](https://github.com/Guanrui1/GuanruiBlog/blob/master/JavaScript/Javascript%E4%B8%8D%E8%89%AF%E7%BC%96%E7%A0%81%E4%B9%A0%E6%83%AF.md) 
+- [replace的用法.md](https://github.com/Guanrui1/GuanruiBlog/blob/master/JavaScript/replace%E7%9A%84%E7%94%A8%E6%B3%95.md) 
 
 
 ### 🙎 浏览器
